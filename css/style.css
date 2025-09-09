@@ -1,0 +1,182 @@
+/*
+   $ TEAM    : https://instagram.com/darkxcode_
+   $ AUTHOR  : https://t.me/zlaxtert 
+   $ CODE    : https://t.me/zexkings 
+   $ DESIGN  : https://t.me/danielsmt 
+   $ SITE    : https://darkxcode.site/
+   $ VERSION : 1.0
+*/
+
+:root {
+    --primary-color: #6f42c1;
+    --secondary-color: #20c997;
+    --dark-bg: #121212;
+    --dark-card: #1e1e1e;
+    --dark-text: #f8f9fa;
+    --light-bg: #f8f9fa;
+    --light-card: #ffffff;
+    --light-text: #212529;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.light-mode {
+    background-color: var(--light-bg);
+    color: var(--light-text);
+}
+
+body.dark-mode {
+    background-color: var(--dark-bg);
+    color: var(--dark-text);
+}
+/*
+   $ TEAM    : https://instagram.com/darkxcode_
+   $ AUTHOR  : https://t.me/zlaxtert 
+   $ CODE    : https://t.me/zexkings 
+   $ DESIGN  : https://t.me/danielsmt 
+   $ SITE    : https://darkxcode.site/
+   $ VERSION : 1.0
+*/
+.card {
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.light-mode .card {
+    background-color: var(--light-card);
+    color: var(--light-text);
+}
+
+.dark-mode .card {
+    background-color: var(--dark-card);
+    color: var(--dark-text);
+    border: 1px solid #333;
+}
+
+.logo {
+    font-weight: 700;
+    font-size: 1.8rem;
+    background: linear-gradient(45deg, var(--primary-color), var(--secondary-color));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.theme-switch {
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-primary:hover {
+    background-color: #5a32a3;
+    border-color: #5a32a3;
+}
+
+.btn-success {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+.btn-success:hover {
+    background-color: #199d74;
+    border-color: #199d74;
+}
+
+.result-item {
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s;
+}
+
+.live-item {
+    border-left: 4px solid #28a745;
+}
+
+.die-item {
+    border-left: 4px solid #dc3545;
+}
+
+.progress {
+    height: 10px;
+    margin-bottom: 20px;
+}
+
+.settings-section {
+    background: rgba(108, 117, 125, 0.05);
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.dark-mode .settings-section {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.phone-preview {
+    max-height: 200px;
+    overflow-y: auto;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.05);
+    border-radius: 5px;
+    font-family: monospace;
+    font-size: 0.9rem;
+}
+
+.dark-mode .phone-preview {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.action-buttons {
+    position: sticky;
+    bottom: 0;
+    background: inherit;
+    padding: 15px 0;
+    z-index: 100;
+    border-top: 1px solid #dee2e6;
+}
+
+.dark-mode .action-buttons {
+    border-top: 1px solid #444;
+}
+
+footer {
+    padding: 20px 0;
+    margin-top: 40px;
+    text-align: center;
+}
+/*
+   $ TEAM    : https://instagram.com/darkxcode_
+   $ AUTHOR  : https://t.me/zlaxtert 
+   $ CODE    : https://t.me/zexkings 
+   $ DESIGN  : https://t.me/danielsmt 
+   $ SITE    : https://darkxcode.site/
+   $ VERSION : 1.0
+*/
+.result-badge {
+    font-size: 0.8rem;
+    padding: 0.35em 0.65em;
+}
+
+.form-label {
+    font-weight: 500;
+}
+
+.nav-tabs .nav-link.active {
+    color: var(--primary-color);
+    font-weight: 600;
+}
+
+.input-method {
+    margin-bottom: 15px;
+}
